@@ -11,8 +11,8 @@
 <br><br>
 - :school: Estudie en la [Universidad Autonoma de San Luis Potosi] en la carrera de [Ing. en sistemas inteligentes].
 - :technologist: Me gusta analizar los sistemas o procesos que hay detras de las cosas.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
+- :nerd_face: Always `stay curious`.
+- :thinking: Ahora mismo estoy abierto a una nueva `oportunidad de trabajo`.
 <br><br>
 
 
